@@ -1,0 +1,39 @@
+.dt_tabs.post-tabs  .category-badge {
+margin-bottom: 0.8rem;
+}
+.editor-pick-carousel .bs-blog-category .category-badge {
+position: absolute;
+}
+.wp-block-button.is-style-outline a.wp-block-button__link {
+color: var(--dt-pri-color);
+}
+.wp-block-archives-list a {
+text-decoration: none;
+}
+.wp-block-image figcaption {
+text-align: center;
+}
+.wp-block-embed figcaption {
+text-align: center;
+}
+.has-background.wp-block-read-more, 
+.has-background.post-navigation-link-next {
+padding: 0.25em 1.375em;
+}
+.has-text-color a:hover, 
+.has-text-color a:focus {
+color: inherit;
+}
+.wp-block-pullquote.has-text-color blockquote {
+border-left-color: inherit;
+}
+.wp-block-calendar table caption {
+color: #fff;
+background-color: var(--dt-main-color);
+}
+.wp-block-calendar table th {
+background: var(--dt-main-color);
+}
+.wp-block-quote .wp-block-search {
+padding-bottom: 5px;
+}

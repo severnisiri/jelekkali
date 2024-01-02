@@ -1,0 +1,66 @@
+:root {
+--dt-main-rgb: 228, 0, 19;
+--dt-black-color: #0a1233;
+} .header--four .dt_navbar-menu {
+padding: 20px 0;
+justify-content: space-between;
+border-top: solid 1px rgba(189, 189, 189, 0.3);
+}
+.header--four .dt_navbar-wrapper.is--sticky.on .dt-row.dt-py-5 {
+display: none;
+}
+.header--four .dt_navbar-wrapper.is--sticky.on .dt_navbar-menu {
+border-top: none;
+}
+.header--five+.toptags {
+border-top: solid 1px rgba(189, 189, 189, 0.3);
+} .menu_active-three .dt_navbar-nav .dt_navbar-mainmenu>li>a {
+padding: 1rem 1.4rem;
+margin: 0 0;
+}
+.menu_active-three .dt_navbar-nav .dt_navbar-mainmenu>li.active>a,
+.menu_active-three .dt_navbar-nav .dt_navbar-mainmenu>li.current-menu-item>a,
+.menu_active-three .dt_navbar-nav .dt_navbar-mainmenu>li.current_page_item>a,
+.menu_active-three .dt_navbar-nav .dt_navbar-mainmenu>li.current-menu-ancestor>a {
+background-color: var(--dt-main-color);
+color: #fff;
+}
+.menu_active-three .dt_navbar-nav .dt_navbar-mainmenu>.menu-item-has-children.current-menu-ancestor>a:after,
+.menu_active-three .dt_navbar-nav .dt_navbar-mainmenu>li.active>a:after {
+color: #fff;
+}
+#dt_header.menu_active-three .dt_navbar-nav .dt_navbar-mainmenu>.menu-item-has-children>a {
+padding-right: 2.9rem;
+}
+.menu_active-three .dt_navbar-nav .dt_navbar-mainmenu .menu-item-has-children>a:after {
+right: 1.4rem;
+}
+@media (min-width: 62em){
+.header--four sup.menu-badge, .header--three sup.menu-badge {
+top: -11px;
+}
+}
+.wp-block-embed figcaption {
+text-align: center;
+}
+.has-background.wp-block-read-more, 
+.has-background.post-navigation-link-next {
+padding: 0.25em 1.375em;
+}
+.has-text-color a:hover, 
+.has-text-color a:focus {
+color: inherit;
+}
+.wp-block-pullquote.has-text-color blockquote {
+border-left-color: inherit;
+}
+.wp-block-calendar table caption {
+color: #fff;
+background-color: var(--dt-main-color);
+}
+.wp-block-calendar table th {
+background: var(--dt-main-color);
+}
+.wp-block-quote .wp-block-search {
+padding-bottom: 5px;
+}

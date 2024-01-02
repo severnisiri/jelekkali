@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>perangkat Archives - SMK Negeri 1 Batam Theknik</title>
+	<atom:link href="https://smknegeri1batam.sch.id/category/perangkat/feed/" rel="self" type="application/rss+xml" />
+	<link>https://smknegeri1batam.sch.id/category/perangkat/</link>
+	<description>Memberi pengetahuan Tentang ahli theknik internet paling mudah pasti termurah seindonesia</description>
+	<lastBuildDate>Wed, 20 Dec 2023 14:49:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Belajar Tekhnik Antar Penghubung Suatu Jaringan Internet</title>
+		<link>https://smknegeri1batam.sch.id/belajar-tekhnik-antar-penghubung-suatu-jaringan-internet/</link>
+					<comments>https://smknegeri1batam.sch.id/belajar-tekhnik-antar-penghubung-suatu-jaringan-internet/#respond</comments>
+		
+		<dc:creator><![CDATA[ksm6l]]></dc:creator>
+		<pubDate>Sun, 10 Dec 2023 14:51:58 +0000</pubDate>
+				<category><![CDATA[internet]]></category>
+		<category><![CDATA[jaringan]]></category>
+		<category><![CDATA[perangkat]]></category>
+		<category><![CDATA[jaringan internet]]></category>
+		<category><![CDATA[Jaringan Nirkabel]]></category>
+		<category><![CDATA[pembuatan jaringan]]></category>
+		<category><![CDATA[perangkat lunak]]></category>
+		<category><![CDATA[wireless network]]></category>
+		<guid isPermaLink="false">https://smknegeri1batam.sch.id/?p=33</guid>
+
+					<description><![CDATA[<p>Dalam dunia yang semakin terhubung secara digital seperti sekarang, pengetahuan tentang teknik antar penghubung menjadi sangat penting untuk memastikan kestabilan dan performa optimal dari jaringan internet kita. Tidak hanya itu,&#8230;</p>
+<p>The post <a href="https://smknegeri1batam.sch.id/belajar-tekhnik-antar-penghubung-suatu-jaringan-internet/">Belajar Tekhnik Antar Penghubung Suatu Jaringan Internet</a> appeared first on <a href="https://smknegeri1batam.sch.id">SMK Negeri 1 Batam Theknik</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" src="https://diskominfo.kuburayakab.go.id/media_library/posts/large/b960a26f2d3d145c0c85626e83e67e3e.jpg" alt="Kenali Apa Itu Topologi Jaringan dan Apa Saja Jenisnya. Ayo Simak Lebih Lanjut | Dinas Komunikasi dan Informatika - Kabupaten Kuburaya" /></p>
+<p>Dalam dunia yang semakin terhubung secara digital seperti sekarang, pengetahuan tentang teknik antar penghubung menjadi sangat penting untuk memastikan kestabilan dan performa optimal dari jaringan internet kita. Tidak hanya itu, dengan menguasai teknik ini, kita juga dapat menjelajahi berbagai jenis jaringan internet tanpa hambatan. Jadi, mari kita mulai belajar bersama-sama!</p>
+<h3>Apa itu Tekhnik Antar Penghubung?</h3>
+<p>Teknik Antar Penghubung adalah suatu metode atau cara untuk menghubungkan dua atau lebih <a href="https://smknegeri1batam.sch.id/">jaringan internet</a> secara efisien. Dalam dunia komputer dan teknologi informasi, terdapat berbagai jenis jaringan seperti LAN (Local Area Network), WAN (Wide Area Network), MAN (Metropolitan Area Network), hingga Internet itu sendiri. Setiap jenis jaringan ini memiliki kebutuhan yang berbeda dalam hal koneksi dan pengaturannya.</p>
+<p>Salah satu contoh penerapan teknik antar penghubung yang cukup umum adalah melalui router. Router merupakan perangkat keras yang bertugas mengarahkan lalu lintas data dari satu jaringan ke jaringan lainnya. Dengan menggunakan router, kita dapat menghubungkan beberapa komputer dalam suatu LAN dengan internet melalui modem.</p>
+<p>Selain itu, ada juga teknik antar penghubung lainnya seperti bridge atau switch yang digunakan untuk menghubungkan beberapa segmen jaringan lokal menjadi satu kesatuan, sehingga memudahkan akses dan pertukaran data di antara mereka.</p>
+<p>Keuntungan utama dari menggunakan teknik antar penghubung adalah meningkatnya kemampuan komunikasi dan transfer data antara berbagai jenis jaringan. Misalnya, dengan menggunakan router sebagai perangkat penyambung, kita dapat mengakses internet dengan cepat dan stabil tanpa harus bergantian menggunakan kabel pada setiap komputer di dalam sebuah ruangan.</p>
+<p>Namun demikian, tentu saja ada juga kekurangan dalam implementasi teknik ini. Salah satunya adalah biaya investasi awal yang mungkin dibutuhkan untuk membeli perangkat-perangkat pendukung seperti router atau switch. Selain itu, pemeliharaan dan konfigurasi jaringan yang kompleks juga memer</p>
+<h3>Jenis-jenis Jaringan Internet yang Memerlukan Tekhnik Antar Penghubung</h3>
+<p>Dalam dunia teknologi dan komunikasi, jaringan internet telah menjadi kebutuhan penting bagi banyak orang. Namun, tidak semua jenis jaringan internet berfungsi dengan sendirinya. Beberapa jenis jaringan memerlukan teknik antar penghubung agar dapat terkoneksi secara efektif.</p>
+<p>Salah satu jenis jaringan yang memerlukan teknik antar penghubung adalah Local Area Network (LAN). LAN merupakan jaringan komputer yang menghubungkan beberapa perangkat dalam suatu area terbatas seperti kantor atau sekolah. Dalam LAN, diperlukan router sebagai penghubung utama untuk mengatur lalu lintas data antara perangkat.</p>
+<p>Selain itu, Wide Area Network (WAN) juga membutuhkan teknik antar penghubung. WAN merupakan jaringan yang mencakup area luas seperti negara atau benua. Untuk menghubungkan lokasi-lokasi yang berjauhan ini, digunakan layanan dari penyedia telekomunikasi dan protokol khusus seperti MPLS (Multiprotocol Label Switching).</p>
+<p>Selanjutnya, ada juga Metropolitan Area Network (MAN) yang memerlukan teknik antar penghubung. MAN adalah jaringan lokal di wilayah perkotaan atau metropolitan dengan cakupan lebih besar dibandingkan LAN namun lebih kecil daripada WAN. Biasanya MAN menggunakan fiber optik sebagai media transmisi dan switch sebagai pusat kontrol lalu lintas data.</p>
+<h3>Kelebihan dan Kekurangan dari Tekhnik Antar Penghubung</h3>
+<p>Teknik antar penghubung merupakan salah satu aspek penting dalam mengelola jaringan internet. Dalam menggunakan teknik ini, tentu ada kelebihan dan kekurangan yang perlu diperhatikan.</p>
+<p>Salah satu kelebihan utama dari teknik antar penghubung adalah kemampuannya untuk mengoptimalkan kinerja jaringan internet. Dengan adanya beberapa jalur alternatif yang tersedia, maka jika salah satu jalur mengalami gangguan atau overload, trafik data dapat dialihkan ke jalur lainnya secara otomatis. Hal ini akan meminimalisir downtime dan menjaga kelancaran akses internet.</p>
+<p>Selain itu, dengan menggunakan teknik antar penghubung juga memperbolehkan adanya pemisahan lalu lintas data berdasarkan prioritas tertentu. Misalnya, Anda dapat memberikan prioritas lebih pada aplikasi bisnis daripada aplikasi hiburan agar performa kerja tidak terganggu oleh streaming video atau game online.</p>
+<p>Namun, seperti halnya dengan segala sesuatu dalam hidup ini, teknik antar penghubung juga memiliki beberapa kekurangan. Salah satunya adalah kompleksitas konfigurasinya yang relatif tinggi dibandingkan dengan jenis jaringan biasa. Ini menuntut pengetahuan khusus tentang routing dan switching serta perangkat keras yang tepat untuk mendukung implementasinya.</p>
+<p>Selain itu, biaya implementasi juga menjadi faktor yang perlu dipertimbangkan karena melibatkan investasi dalam infrastruktur tambahan seperti router dan switcher yang mungkin diperlukan untuk mendukung fungsi teknik antar penghubung.</p>
+<h3>Bagaimana Cara Menggunakan Tekhnik Antar Penghubung dalam Jaringan Internet?</h3>
+<p>Dalam mengimplementasikan teknik antar penghubung dalam jaringan internet, ada beberapa langkah yang perlu diikuti. Pertama, pastikan Anda memiliki perangkat keras dan perangkat lunak yang diperlukan untuk membangun jaringan tersebut. Ini bisa berupa router, switch, kabel Ethernet, dan aplikasi manajemen jaringan.</p>
+<p>Setelah itu, tentukan topologi jaringan yang akan digunakan. Apakah Anda akan menggunakan topologi bus, bintang, atau mesh? Pilihlah sesuai dengan kebutuhan dan ukuran jaringan Anda.</p>
+<p>Langkah selanjutnya adalah melakukan konfigurasi pada setiap perangkat di jaringan. Pastikan untuk memberi alamat IP yang unik kepada setiap perangkat agar mereka dapat saling terhubung secara benar.</p>
+<p>Selanjutnya adalah mengatur aturan firewall jika diperlukan. Hal ini penting untuk menjaga keamanan dalam jaringan Anda dan mencegah akses tidak sah.</p>
+<p>Terakhir tapi tidak kalah penting adalah melakukan tes koneksi untuk memastikan bahwa semua penghubung bekerja dengan baik dan aman.</p>
+<p>Menggunakan teknik antar penghubung dalam jaringan internet membutuhkan pemahaman tentang konsep dasar networking serta kemampuan konfigurasi perangkat keras maupun lunak. Dengan implementasi yang tepat, Anda dapat memaksimalkan potensi dari infrastruktur jaringan Anda serta meningkatkan efisiensi komunikasi data di lingkungan bisnis atau personal Anda.</p>
+<h3>Contoh Penerapan Tekhnik Antar Penghubung di Berbagai Situasi</h3>
+<p>Dalam dunia yang semakin terhubung secara digital seperti saat ini, teknik antar penghubung menjadi sangat penting dalam menjaga koneksi jaringan internet tetap lancar dan stabil. Melalui pemahaman tentang jenis-jenis jaringan yang memerlukan teknik antar penghubung serta kelebihan dan kekurangannya, kita dapat mengoptimalkan penggunaan tekhnologi ini untuk meningkatkan efisiensi dan produktivitas.</p>
+<p>Dalam artikel ini, telah dibahas apa itu teknik antar penghubung, berbagai jenis jaringan internet yang membutuhkannya, serta bagaimana cara menggunakan teknik tersebut dalam sebuah jaringan internet. Selain itu, juga telah diberikan beberapa contoh penerapan teknik antar penghubung di berbagai situasi.</p>
+<p>Teknik antar penghubung memiliki peranan penting dalam menyambungkan sejumlah komputer atau perangkat sehingga dapat saling berkomunikasi melalui jaringan internet. Dengan adanya tekhnologi ini, kita dapat terkoneksi dengan mudah tanpa harus bergantung pada satu sumber tunggal.</p>
+<p>Namun demikian, seperti halnya setiap tekhnologi lainnya, ada kelebihan dan kekurangan dari penggunaan teknik antar penghubung. Kelebihannya adalah kemampuan untuk mengintegrasikan banyak perangkat agar dapat saling berkomunikasi melalui satu koneksi tunggal. Namun di sisi lainnya ada juga kekurangan yaitu rentannya sistem jika terjadi gangguan pada salah satu titik hubungan.</p>
+<p>The post <a href="https://smknegeri1batam.sch.id/belajar-tekhnik-antar-penghubung-suatu-jaringan-internet/">Belajar Tekhnik Antar Penghubung Suatu Jaringan Internet</a> appeared first on <a href="https://smknegeri1batam.sch.id">SMK Negeri 1 Batam Theknik</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://smknegeri1batam.sch.id/belajar-tekhnik-antar-penghubung-suatu-jaringan-internet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Jaringan Nirkabel Ialah: Pemahaman, Sejarah, Keunggulan dan Kekurangan</title>
+		<link>https://smknegeri1batam.sch.id/jaringan-nirkabel-ialah-pemahaman-sejarah-keunggulan-dan-kekurangan/</link>
+					<comments>https://smknegeri1batam.sch.id/jaringan-nirkabel-ialah-pemahaman-sejarah-keunggulan-dan-kekurangan/#respond</comments>
+		
+		<dc:creator><![CDATA[ksm6l]]></dc:creator>
+		<pubDate>Sat, 09 Dec 2023 05:58:44 +0000</pubDate>
+				<category><![CDATA[perangkat]]></category>
+		<category><![CDATA[tekhnologi]]></category>
+		<category><![CDATA[Jaringan Nirkabel]]></category>
+		<category><![CDATA[wireless network]]></category>
+		<guid isPermaLink="false">https://smknegeri1batam.sch.id/?p=25</guid>
+
+					<description><![CDATA[<p>Jaringan Nirkabel Ialah : Pengertian Keunggulan dan Kekurangan &#8211; Istilah wireless network atau jaringan nirkabel mungkin sangat familier untuk banyak orang. Tehnologi ini bisa secara gampang ditemui pada piranti electronic yang kerap&#8230;</p>
+<p>The post <a href="https://smknegeri1batam.sch.id/jaringan-nirkabel-ialah-pemahaman-sejarah-keunggulan-dan-kekurangan/">Jaringan Nirkabel Ialah: Pemahaman, Sejarah, Keunggulan dan Kekurangan</a> appeared first on <a href="https://smknegeri1batam.sch.id">SMK Negeri 1 Batam Theknik</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" src="https://course-net.com/blog/wp-content/uploads/2022/10/Pengertian-Jaringan-Nirkabel.webp" alt="Jaringan Nirkabel Adalah : Definisi Kelebihan dan Kekurangan" /></p>
+<p>Jaringan Nirkabel Ialah : Pengertian Keunggulan dan Kekurangan &#8211; Istilah wireless network atau jaringan nirkabel mungkin sangat familier untuk banyak orang. Tehnologi ini bisa secara gampang ditemui pada piranti electronic yang kerap dipakai setiap hari, seperti radio, tv, smartphone, dan computer.</p>
+<p><strong>Pemahaman Jaringan Nirkabel</strong></p>
+<p>Jaringan Nirkabel Ialah : Pengertian Keunggulan dan Kekurangan</p>
+<p>Jaringan nirkabel ialah tehnologi piranti jaringan yang memungkinkannya transmisi data dilaksanakan tanpa memakai jaringan kabel fisik antara piranti. Jaringan ini menyambungkan piranti dengan memakai gelombang elektromagnetik sebagai alternatif kabel.</p>
+<p>Wireless network memakai sejumlah perlengkapan khusus seperti NIC (kartu jaringan), router, dan AP untuk sambungan. Pemakaiannya benar-benar fleksibel dengan beberapa kelebihan yang tidak dipunyai oleh jaringan kabel.</p>
+<p><strong>Sejarah Perubahan Jaringan Nirkabel</strong></p>
+<p>Di tahun 1864, Guglielmo Marconi dan Popov lakukan eksperimen jaringan tanpa kabel untuk radio &#8211; telegraf. Cikal akan wireless network diawali sesudah ALOHANet dikenalkan oleh salah satunya kampus di Hawai di tahun 1970an.</p>
+<p>Di tahun 1980an, angkatan awalnya modem data nirkabel ada yang diperkembangkan oleh operator radio pemula di Amerika serikat yang dikenali sebagai radio paket.</p>
+<p>Perubahannya makin cepat dengan beberapa perusahaan yang coba meningkatkan produk nirkabel dengan kecepatan di atas 1 Mbps. Produk berikut yang selanjutnya dikenali sebagai IEEE Workshop on Wireless LAN.</p>
+<p><strong>Langkah Kerja Jaringan Nirkabel</strong></p>
+<p>Pada prosesnya, jaringan nirkabel bekerja dengan memakai transceiver yang berbentuk adaptor. Alat ini dipakai untuk mengetahui jaringan wireless untuk memperoleh signal masuk dari pemakai lewat radio atau perlengkapan semacamnya.</p>
+<p>Sesudah memperoleh signal masuk, karena itu seterusnya mekanisme autentikasi piranti akan menyambungkan pemakai. Data yang dikirimkan oleh pemakai ini masih juga dalam bentuk digital sehingga diganti lebih dulu jadi signal radio atau analog.</p>
+<p>Seterusnya signal radio akan dikirimkan dan diterima oleh router wireless untuk lakukan decode data. Selanjutnya router akan mengirimi lagi informasi itu.</p>
+<p><strong>Faedah Jaringan Nirkabel</strong></p>
+<p>Berdasar pemahaman jaringan nirkabel, tehnologi ini memberi faedah berbentuk keringanan dalam transmisi data yang jadi lebih ringkas. Pada intinya jaringan ini mempunyai fungsi atau manfaat yang masih sama seperti jaringan wired yakni penyambung supaya piranti dapat sama-sama tukar data.</p>
+<p>Bedanya jaringan wired memakai kabel (fiber optik dan tembaga koaksial, dan jaringan wireless memakai gelombang elektromagnetik lebih sederhana.</p>
+<p>Pemakaian jaringan wireless dilaksanakan untuk lakukan resource share. Resource share yakni pemakaian sumber daya untuk semua program dan perlengkapan yang ada pada lingkup jaringan supaya bisa dipakai tanpa dipengaruhi lokasi dan penggunanya.</p>
+<p>Maka jaringan wireless ini benar-benar berguna untuk menangani masalah jarak yang kerap jadi kekurangan dari jaringan wired.</p>
+<p><strong>Tipe Jaringan Nirkabe</strong></p>
+<p>Berdasarkan lingkup geografis, jaringan wireless dipisah jadi beberapa jenis. Berikut tipe &#8211; tipe jaringan nirkabel yang terdapat.</p>
+<p><strong>WPAN &#8211; Wireless Individual Tempat Network</strong></p>
+<p>Wireless Individual Tempat Network ialah tehnologi jaringan wireless yang mempunyai capaian paling kecil dibandingkan tipe jaringan wireless lain. WPAN cuma sanggup mencapai untuk lingkup jarak 10 mtr. saja. Contoh aplikasinya ialah pada Bluetooth dan infrared yang gantikan tehnologi kabel.</p>
+<p><strong>WLAN &#8211; Wireless Local Tempat Network</strong></p>
+<p>Wireless Local Tempat Network adalah jaringan nirkabel yang bisa dipakai untuk capaian yang bertambah luas, seperti pada tempat perkantoran, sekolah, universitas, dan semacamnya. Pemakaian tehnologi WLAN ini memerlukan akses poin untuk sambungan.</p>
+<p><strong>WMAN &#8211; Wireless Metropolitan Tempat Network</strong></p>
+<p>Wireless Metropolitan Tempat Network ialah tehnologi jaringan wireless yang kerap diterapkan untuk menyambungkan sejumlah pemakai pada suatu wilayah metropolitan . Maka, untuk jaringan di daerah itu tidak memerlukan kabel.</p>
+<p><strong>WWAN &#8211; Wireless Wide Tempat Network</strong></p>
+<p>Wireless Wide Tempat Network jadi jaringan nirkabel yang lingkupnya paling jauh, dapat antara kota atau antara negara. Jaringan jaringan wireless ini dibuat memakai mekanisme satelit dan antena yang ditaruh di sejumlah lokasi.</p>
+<p>Pemakai dapat sama-sama tersambung, baik ke jaringan individu atau jaringan public. Pemakaian WWAN yang terpopuler ialah 2G, 3G, 4G, dan 5G.</p>
+<h4>Baca : <a href="https://smknegeri1batam.sch.id/pembelajaran-teknis-tentang-pembuatan-sektor-jaringan/">Pembelajaran Teknis Tentang Pembuatan Sektor Jaringan</a></h4>
+<div class="wp-block-template-part">
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+<div class="wp-block-group is-content-justification-left is-layout-flex wp-container-core-group-layout-5 wp-block-group-is-layout-flex"></div>
+</div>
+</div>
+<h3>Kelebihan</h3>
+<p>Untuk Anda yang telah memahami apa itu jaringan nirkabel, mungkin telah memperoleh deskripsi apa kelebihan yang dijajakan dari jaringan wireless ini. Pemakaian jaringan tanpa kabel yang makin ramai banyak dilaksanakan karena banyak kelebihan ini.</p>
+<p><strong>Instalasi jaringan lebih gampang</strong><br />
+Keunggulan dari jaringan wireless ialah instalasi yang bisa dilaksanakan lebih gampang karena tidak memerlukan kabel transmisi.</p>
+<p><strong>Capaian yang bertambah luas</strong><br />
+Capaiannya juga lebih luas dan tidak harus tinggal cuma di satu lokasi saja. Berlainan dengan jaringan wired yang lingkupnya lebih sempit hanya penempatan kabel jaringan yang sudah dilakukan.</p>
+<p><strong>Peningkatan jaringan yang gampang</strong><br />
+Peningkatan jaringan ini tambah gampang dan fleksibel. Pada jaringan kabel atau wired, untuk lakukan peluasan atau peningkatan jaringan memerlukan instalasi dan ongkos yang lebih.</p>
+<p><strong>Pemakaian resource yang gampang</strong><br />
+Tidak ada batas port agar bisa memakai jaringan ini hingga banyak pemakai yang dapat mengaksesnya sekalian. Mobilisasi saat memakai jaringan wireless lebih gampang karena tidak memerlukan kabel panjang.</p>
+<p><strong>Instalasi jaringan lebih murah</strong><br />
+Kelebihan jaringan nirkabel yang tidak dipunyai jaringan kabel ialah ongkos penempatannya lebih murah. Bila membuat jaringan wired, makin luas atau makin bertambah besar jaringan yang dibuat akan memerlukan ongkos lebih besar untuk ongkos kabel transmisi.</p>
+<h3>Kekurangan</h3>
+<p>Wireless network memanglah lebih gampang dan ringkas, tetapi jaringan wireless mempunyai kekurangannya tertentu. Berikut sejumlah kelemahan pada jaringan wireless.</p>
+<p><strong>Riskan masalah signal</strong><br />
+Wireless network mentransmisikan data lewat gelombang elektromagnetik yang rawan dipengaruhi oleh faktor external seperti cuaca. Saat terjadi hujan atau cuaca jelek, jaringan wireless bisa alami masalah signal hingga susah untuk dipakai lancar.</p>
+<p><strong>Kecepatan jaringan dapat melamban</strong><br />
+kekurangan dan kelebihan jaringan nirkabel ada juga pada kecepatan transmisi data. Menyambungkan atau mengalihkan data bisa dilaksanakan bisa lebih cepat karena tidak butuh memasangkan kabel. Tetapi saat jaringan dipakai oleh beberapa orang, kecepatannya dapat menyusut dan relatif melamban.</p>
+<p><strong>Rawan perampokan data</strong><br />
+Sebetulnya jaringan wireless cukuplah aman untuk dipakai. Tetapi keamanan jaringan wired semakin tinggi dibanding jaringan wireless. Pemakaian jaringan untuk transmisi tanpa kabel fisik ini dapat semakin rawan pada perampokan data.</p>
+<p>&nbsp;</p>
+<p>The post <a href="https://smknegeri1batam.sch.id/jaringan-nirkabel-ialah-pemahaman-sejarah-keunggulan-dan-kekurangan/">Jaringan Nirkabel Ialah: Pemahaman, Sejarah, Keunggulan dan Kekurangan</a> appeared first on <a href="https://smknegeri1batam.sch.id">SMK Negeri 1 Batam Theknik</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://smknegeri1batam.sch.id/jaringan-nirkabel-ialah-pemahaman-sejarah-keunggulan-dan-kekurangan/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cara Mengoprasikan Perangkat Teknologi</title>
+		<link>https://smknegeri1batam.sch.id/cara-mengoprasikan-perangkat-teknologi/</link>
+					<comments>https://smknegeri1batam.sch.id/cara-mengoprasikan-perangkat-teknologi/#respond</comments>
+		
+		<dc:creator><![CDATA[ksm6l]]></dc:creator>
+		<pubDate>Sat, 09 Dec 2023 05:36:00 +0000</pubDate>
+				<category><![CDATA[perangkat]]></category>
+		<category><![CDATA[tekhnologi]]></category>
+		<category><![CDATA[hardware]]></category>
+		<category><![CDATA[perangkat lunak]]></category>
+		<category><![CDATA[software]]></category>
+		<guid isPermaLink="false">https://smknegeri1batam.sch.id/?p=10</guid>
+
+					<description><![CDATA[<p>Berikut Perangkat Yang Dipakai Sama seperti yang telah disebut awalnya jika jaringan computer dibuat di atas piranti keras (hardware) dan piranti lunak (software). Beberapa macam piranti yang dibutuhkan untuk membuat&#8230;</p>
+<p>The post <a href="https://smknegeri1batam.sch.id/cara-mengoprasikan-perangkat-teknologi/">Cara Mengoprasikan Perangkat Teknologi</a> appeared first on <a href="https://smknegeri1batam.sch.id">SMK Negeri 1 Batam Theknik</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2><img decoding="async" src="https://course-net.com/blog/wp-content/uploads/2022/11/topologi-jaringan.webp" alt="Topologi Jaringan" /></h2>
+<h2>Berikut Perangkat Yang Dipakai</h2>
+<p>Sama seperti yang telah disebut awalnya jika jaringan computer dibuat di atas piranti keras (hardware) dan piranti lunak (software). Beberapa macam piranti yang dibutuhkan untuk membuat jaringan computer diantaranya:</p>
+<p><strong>Server</strong><br />
+Server ialah piranti yang berperan untuk simpan data dan mengurus jaringan computer. Oleh karenanya, fitur hardware yang dipakai untuk server harus semakin tinggi dibandingkan hardware klien.</p>
+<p><strong>Hub dan switch</strong><br />
+Untuk Anda yang belajar jaringan computer, hub dan switch ialah dua piranti yang mempunyai peranan yang masih sama. Piranti hub dan switch pada suatu jaringan dipakai untuk menyambungkan sejumlah computer.</p>
+<p><strong>Kabel jaringan</strong><br />
+Kabel mempunyai peranan untuk menyambungkan piranti server dengan klien atau piranti yang lain pada suatu jaringan computer. Beberapa macam kabel yang dipakai diantaranya twister pair, coaxial, dan fiber optic yang masing-masing mempunyai kekurangan dan keunggulannya tertentu.</p>
+<p><strong>NIC</strong><br />
+NIC atau Network Antarmuka Card berperan untuk menyambungkan piranti computer ke sebuah jaringan. Inisering disebutkan sebagai LAN Card yang kecepatannya bervariatif.</p>
+<p>NIC dengan kecepatan 10MB per detik (ethernet), 100MB per detik (fast ethernet), 1000MB per detik (gigabit ethernet), dan 10000MB per detik (tenging). Sejumlah computer sekarang ini lebih kekinian telah diperlengkapi feature NIC built-in.</p>
+<p><strong>Router</strong><br />
+Dalam jaringan computer ada router yang disebut piranti untuk menyambungkan jaringan kabel (LAN) ke jaringan nirkabel (WAN). Router berperan untuk atur lalu lintas yang ada pada jaringan computer itu.</p>
+<p><strong>Repeater</strong><br />
+Piranti yang disebutkan repeater ini mempunyai peranan untuk perkuat signal yang ada pada sebuah jaringan nirkabel. Repeater benar-benar menolong jika signal jaringan terhambat oleh sesuatu object.</p>
+<p><strong>Modem</strong><br />
+Jaringan computer memerlukan modem untuk menyambungkan piranti computer dengan ISP atau penyuplai service internet.</p>
+<p><strong>Wireless Card</strong><br />
+Wireless card adalah piranti yang dipakai dalam jaringan computer untuk tangkap signal dan menyambungkan sesuatu piranti ke jaringan nirkabel. Piranti untuk memberikan dukungan sambungan nirkabel ini umumnya telah ada pada netbook angkatan terkini. Tetapi untuk desktop atau computer beberapa memerlukan piranti nirkabel tambahan.</p>
+<h4>Baca : <a href="https://smknegeri1batam.sch.id/jaringan-nirkabel-ialah-pemahaman-sejarah-keunggulan-dan-kekurangan/">Jaringan Nirkabel Ialah: Pemahaman, Sejarah, Keunggulan dan Kekurangan</a></h4>
+<h3>Faedah Jaringan Computer</h3>
+<p>Belajar jaringan computer benar-benar menolong untuk Anda yang ingin nikmati faedah dari jaringan computer. Sejumlah manfaat atau fungsi jaringan computer diantaranya.</p>
+<p>Share sumber daya<br />
+Jaringan computer benar-benar berguna untuk share sumber daya, baik itu data share, hardware share, atau data backup.</p>
+<h3>Mempermudah komunikasi jarak jauh</h3>
+<p>Anda dapat berbicara dengan beberapa orang dari beragam negara di penjuru dunia memakai internet. Ini jadi faedah yang paling dirasa beberapa orang dari sebuah jaringan computer.</p>
+<h3>Tingkatkan keamanan dan management data</h3>
+<p>Jaringan computer bisa digunakan untuk tingkatkan keamanan data dari dampak negatif perampokan atau kerusakan. Umumnya data akan automatis disimpan dalam jaringan server hingga Anda dapat tingkatkan keamanan beberapa data yang terpenting.</p>
+<h3>Data jadi bisa dijangkau dengan remote</h3>
+<p>Saat data cuma diletakkan pada satu piranti, karena itu Anda cuma dapat menyaksikan data lewat piranti itu. Berlainan hal dengan memakai jaringan computer yang dapat memberi akses hingga Anda dapat buka data dengan cara remote, seperti data yang diletakkan pada penyimpanan cloud.</p>
+<h3>Memberikan fasilitas lajur untuk content selingan</h3>
+<p>Langkah belajar jaringan computer otodidak yang banyak dilaksanakan orang mungkin lewat internet. Jaringan computer ini yang memberi faedah selingan secara berbagai ragam opsi. Ada jaringan computer memberikan fasilitas lajur baru untuk pemakai nikmati beragam content selingan seperti permainan online, YouTube, Instagram, Netflix, TikTok, dan lain-lain.</p>
+<p>Tersebut informasi penting sekitar jaringan computer yang penting Anda kenali. Kehidupan manusia di zaman digital seperti saat ini memanglah tidak bisa terlepas dari pemakaian jaringan computer. Silakan Anda belajar jaringan computer untuk pahami ide dari sebuah jaringan yang demikian penting untuk kehidupan manusia ini.</p>
+<h3>Ingin Mengusai Jaringan Computer ? Turut Pelatihan Saja</h3>
+<p>Untuk meng ikuti pelatihan jaringan computer , Kamu dapat meng ikuti di Course-Net. Ada untuk bulan ini, Selekasnya isi form di bawah ini untuk meng ikuti pelatihan jaringan computer bersertifikasi.</p>
+<p>&nbsp;</p>
+<p>The post <a href="https://smknegeri1batam.sch.id/cara-mengoprasikan-perangkat-teknologi/">Cara Mengoprasikan Perangkat Teknologi</a> appeared first on <a href="https://smknegeri1batam.sch.id">SMK Negeri 1 Batam Theknik</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://smknegeri1batam.sch.id/cara-mengoprasikan-perangkat-teknologi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

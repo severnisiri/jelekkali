@@ -1,0 +1,24 @@
+[09-Dec-2023 07:03:18 UTC] PHP Warning:  Attempt to read property "title" on null in /home/bocohtsn/smknegeri1batam.sch.id/wp-includes/class-wp-customize-widgets.php on line 905
+[12-Dec-2023 15:36:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/bocohtsn/smknegeri1batam.sch.id/wp-content/plugins/wp-shopify/inc/graphql.php on line 187
+[12-Dec-2023 15:36:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/bocohtsn/smknegeri1batam.sch.id/wp-content/plugins/wp-shopify/inc/graphql.php on line 189
+[12-Dec-2023 15:36:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/bocohtsn/smknegeri1batam.sch.id/wp-content/plugins/wp-shopify/inc/functions.php on line 500
+[12-Dec-2023 15:36:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/bocohtsn/smknegeri1batam.sch.id/wp-content/plugins/wp-shopify/inc/functions.php on line 517
+[12-Dec-2023 15:36:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/bocohtsn/smknegeri1batam.sch.id/wp-content/plugins/wp-shopify/inc/functions.php on line 534
+[12-Dec-2023 15:36:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/bocohtsn/smknegeri1batam.sch.id/wp-content/plugins/wp-shopify/inc/functions.php on line 551
+[12-Dec-2023 16:47:13 UTC] PHP Warning:  Array to string conversion in /home/bocohtsn/smknegeri1batam.sch.id/wp-content/plugins/all-404-redirect-to-homepage/uninstall.php on line 13
+[12-Dec-2023 16:51:10 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/bocohtsn/smknegeri1batam.sch.id/wp-content/plugins/wp-shopify/inc/graphql.php on line 187
+[12-Dec-2023 16:51:10 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/bocohtsn/smknegeri1batam.sch.id/wp-content/plugins/wp-shopify/inc/graphql.php on line 189
+[12-Dec-2023 16:51:10 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/bocohtsn/smknegeri1batam.sch.id/wp-content/plugins/wp-shopify/inc/functions.php on line 500
+[12-Dec-2023 16:51:10 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/bocohtsn/smknegeri1batam.sch.id/wp-content/plugins/wp-shopify/inc/functions.php on line 517
+[12-Dec-2023 16:51:10 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/bocohtsn/smknegeri1batam.sch.id/wp-content/plugins/wp-shopify/inc/functions.php on line 534
+[12-Dec-2023 16:51:10 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/bocohtsn/smknegeri1batam.sch.id/wp-content/plugins/wp-shopify/inc/functions.php on line 551
+[14-Dec-2023 12:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/bocohtsn/smknegeri1batam.sch.id/wp-content/plugins/wp-shopify/inc/graphql.php on line 187
+[14-Dec-2023 12:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/bocohtsn/smknegeri1batam.sch.id/wp-content/plugins/wp-shopify/inc/graphql.php on line 189
+[14-Dec-2023 12:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/bocohtsn/smknegeri1batam.sch.id/wp-content/plugins/wp-shopify/inc/functions.php on line 500
+[14-Dec-2023 12:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/bocohtsn/smknegeri1batam.sch.id/wp-content/plugins/wp-shopify/inc/functions.php on line 517
+[14-Dec-2023 12:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/bocohtsn/smknegeri1batam.sch.id/wp-content/plugins/wp-shopify/inc/functions.php on line 534
+[14-Dec-2023 12:59:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/bocohtsn/smknegeri1batam.sch.id/wp-content/plugins/wp-shopify/inc/functions.php on line 551
+[20-Dec-2023 14:43:57 UTC] PHP Warning:  Undefined property: WP_Ajax_Upgrader_Skin::$api in /home/bocohtsn/smknegeri1batam.sch.id/wp-admin/includes/class-theme-upgrader.php on line 160
+[23-Dec-2023 02:33:22 UTC] PHP Warning:  Version warning: Imagick was compiled against ImageMagick version 1808 but version 1809 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Dec-2023 02:33:13 UTC] PHP Warning:  Version warning: Imagick was compiled against ImageMagick version 1808 but version 1809 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[26-Dec-2023 02:33:00 UTC] PHP Warning:  Version warning: Imagick was compiled against ImageMagick version 1808 but version 1809 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
